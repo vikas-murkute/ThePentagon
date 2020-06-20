@@ -54,17 +54,18 @@ A cloud based remote android managment suite, powered by NodeJS
     3. under `admin` 
         - set the `username` as plain text
         - set the `password` as a LOWERCASE MD5 hash
+        Default ID and Password is admin
     4. save the file
     5. run `pm2 restart all`
 
 7. in your browser navigate to `http://<SERVER IP>:22533`
     
-It's recommended to run L3MON behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
+It's recommended to run ThePentagoan Botnet behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
 ## Disclaimer
-<b>D3VL Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
-L3MON is built for both Educational and Internal use ONLY.</b>
+<b>Vikasyt Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
+ThePentagoan is built for both Educational and Internal use ONLY.</b>
 
 <br>
-<p align="center">Made with ❤️ By <a VIKAS</a></p>
+<p align="center">Made with ❤️ By VIKAS</p>
 <p align="center" style="font-size: 8px">v1.1.2</p>
