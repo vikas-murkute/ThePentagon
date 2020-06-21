@@ -41,7 +41,7 @@ A cloud based remote android managment suite, powered by NodeJS
 3. install PM2 
     - `npm install pm2 -g`
 
-4. Download and Extract the latest release from [HERE](https://github.com/vikasyt/ThePentagon/releases/)
+4. Download and Extract the latest release from [HERE](https://github.com/vikasyt/ThePentagon/releases/download/1.1/The.Pentagon.v1.1.zip)
 
 5. In the extracted folder, run these commands
     - `npm install` <- install dependencies
