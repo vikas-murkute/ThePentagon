@@ -68,4 +68,4 @@ ThePentagoan is built for both Educational and Internal use ONLY.</b>
 
 <br>
 <p align="center">Made with ❤️ By VIKAS</p>
-<p align="center" style="font-size: 8px">v1.1.2</p>
+<p align="center" style="font-size: 8px">v1.1</p>
